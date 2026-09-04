@@ -1,0 +1,13 @@
+# Private API key
+anthropic_api_key.txt
+
+# Data, not code
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+inbox/
+
+# Environment
+.env
+__pycache__/
